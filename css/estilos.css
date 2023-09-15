@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+    font-size: 20px;
+    background-color:bisque;
+    background-image: "img/obama.gif";
+}
+h1.primeiro{
+    color:brown;
+}
+h1.segundo{
+    color:rgb(213, 27, 238);
+}
